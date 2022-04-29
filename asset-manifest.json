@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Psiborg_Assessment/static/css/main.4ed1547b.css",
+    "main.js": "/Psiborg_Assessment/static/js/main.1fbc1f4e.js",
+    "static/js/787.0bca8be2.chunk.js": "/Psiborg_Assessment/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/Psiborg_Assessment/index.html",
+    "main.4ed1547b.css.map": "/Psiborg_Assessment/static/css/main.4ed1547b.css.map",
+    "main.1fbc1f4e.js.map": "/Psiborg_Assessment/static/js/main.1fbc1f4e.js.map",
+    "787.0bca8be2.chunk.js.map": "/Psiborg_Assessment/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed1547b.css",
+    "static/js/main.1fbc1f4e.js"
+  ]
+}
